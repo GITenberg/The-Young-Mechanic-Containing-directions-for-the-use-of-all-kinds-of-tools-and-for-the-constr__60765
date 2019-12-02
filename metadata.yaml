@@ -1,0 +1,34 @@
+_repo: The-Young-Mechanic-Containing-directions-for-the-use-of-all-kinds-of-tools-and-for-the-constr__60765
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lukin, James
+    alias: Lukin, J. (James)
+    birthdate: 1828
+    deathdate: 1917
+    gutenberg_agent_id: '51132'
+    url: http://www.gutenberg.org/2009/agents/51132
+description: ''
+gutenberg_issued: '2019-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Industrial arts'
+- !lcsh 'Handicraft'
+- GITenberg
+tableOfContents: Introductory -- How to make a cage -- Mortice and tenon jointing
+  -- How to make a table -- Dovetailing and mitring -- Rebating, tongueing, and grooving
+  -- The young mechanic at the lathe -- On woods and materials for turning -- Sharpening
+  and setting tools -- Hand-turning in wood -- Hard-wood turning -- How to make a
+  steam-engine -- Watt's engine -- How to make an engine -- Hardening and tempering
+  tools.
+title: "The Young Mechanic\r\nContaining directions for the use of all kinds of tools,\
+  \ and for the construction of steam engines and mechanical models, including the\
+  \ art of turning in wood and metal"
+url: http://www.gutenberg.org/ebooks/60765
